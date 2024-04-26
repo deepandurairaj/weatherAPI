@@ -83,4 +83,7 @@ input {
     .forms{
         padding: 50px 0 !important;
     }
+    .weatherSet{
+        margin: 0;
+    }
 }
